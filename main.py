@@ -1,3 +1,3 @@
-'print("Hello, Git!")' 
+'print("Hello, from main!")' 
 'print("Git Diff is awesome!")' 
 'def add(a, b): return a + b' 
